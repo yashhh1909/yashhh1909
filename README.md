@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yashhguptaa09@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Ew-dn6xUyrjEBdSntJZErEZIOkHIt_YU/edit?usp=sharing&ouid=111567983437803582670&rtpof=true&sd=true](https://docs.google.com/document/d/1Ew-dn6xUyrjEBdSntJZErEZIOkHIt_YU/edit?usp=sharing&ouid=111567983437803582670&rtpof=true&sd=true)
+- 📄 Know about my experiences (https://shorturl.at/XZyvd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
