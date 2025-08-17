@@ -1,3 +1,9 @@
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <h1 align="center">Hello World! , I'm Yash Gupta</h1>
 <h3 align="center">Aspiring Full Stack Developer, Financial Analyst, AI Engineer | Resourceful & Results-Oriented </h3>
 
