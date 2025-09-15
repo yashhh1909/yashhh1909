@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yashhguptaa09@gmail.com**
 
-- 📄 Know about my experiences (https://shorturl.at/XZyvd)
+- 📄 Know about my experiences (https://yashgupta-portfolio.lovable.app/)
 
 - ⛩️ Visit: https://thevoid.in/
 <h3 align="left">Connect with me:</h3>
