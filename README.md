@@ -5,9 +5,9 @@
 </div>
 
 <h1 align="center">Hello World! , I'm Yash Gupta</h1>
-<h3 align="center">Aspiring Full Stack Developer, Financial Analyst, AI Engineer | Resourceful & Results-Oriented </h3>
+<h3 align="center">Aspiring Full Stack Developer, Data Analyst , AI Engineer | Resourceful & Results-Oriented </h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Science and Web Development**
 
 - 📫 How to reach me **yashhguptaa09@gmail.com**
 
